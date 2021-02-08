@@ -7,5 +7,4 @@ You can get your own API key from The Movie DataBase (https://www.themoviedb.org
 full documentation here: https://developers.themoviedb.org/3
 
 ### demo
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/70941958/107184299-a2a42c80-6a23-11eb-80fc-77ee389984e3.gif)
-
+![Hnet com-image](https://user-images.githubusercontent.com/70941958/107184616-45f54180-6a24-11eb-961d-3f165b471be0.gif)
