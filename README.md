@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## What I learned and practiced
+It's always fun fetching data (am I the only one?) and mapping it on to a grid.
+
 ## TMDB
 You can get your own API key from The Movie DataBase (https://www.themoviedb.org/)
 full documentation here: https://developers.themoviedb.org/3
