@@ -8,3 +8,7 @@ full documentation here: https://developers.themoviedb.org/3
 
 ### demo
 ![Hnet com-image](https://user-images.githubusercontent.com/70941958/107184616-45f54180-6a24-11eb-961d-3f165b471be0.gif)
+
+### To-do
+- separate business logics to own utils component
+- create favorite state + favorite pages (with react-router-dom)
